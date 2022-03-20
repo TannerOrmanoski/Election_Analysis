@@ -20,7 +20,9 @@ The purpose of this election audit analysis was to help Tom, a Colorado Board of
 
 ![](https://github.com/TannerOrmanoski/Election_Analysis/blob/main/candidate_name.png)
 
-• Diana was the overwhelming winner with 272,892 votes which equaled 73.8% of the total votes. This was determined in the same manner as the largest voter turnout was, like before, the only thing that really needed to be changed was the variables and the references. (Photo)
+• Diana was the overwhelming winner with 272,892 votes which equaled 73.8% of the total votes. This was determined in the same manner as the largest voter turnout was, like before, the only thing that really needed to be changed was the variables and the references.
+
+![](https://github.com/TannerOrmanoski/Election_Analysis/blob/main/candidate_winner.png)
 
 ## Election-Audit Summary 
 
