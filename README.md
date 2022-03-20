@@ -10,6 +10,8 @@ The purpose of this election audit analysis was to help Tom, a Colorado Board of
 
 • 10.5% of the votes came from Jefferson County with 38,855 votes. 82.8% of the votes were from Denver County with 306,055 votes. 6.7% of the votes came from Arapahoe County with 24,801 votes. This information was gathered by creating a list of the unique county names, and then tallying each instance of a county’s name thereafter to arrive at the sum of votes cast in each county. Afterwards simple math was used that converted the number of votes for each county into a percentage.
 
+![](https://github.com/TannerOrmanoski/Election_Analysis/blob/main/county_names_code.png)
+
 • The county with the largest number of votes, was Denver County. The code used to determine this, looped through the list of counties comparing them to each other in a linear fashion, and the county with largest vote number was placed in the largest turnout variable. (Provide image) 
 
 • The three candidates were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Charles accumulated 23% of the vote, with 85,213 votes. Raymon only had 3.1% of the vote, with 11,606 votes. Diana wiped the board with a whopping 272,892 votes, or 73.8% of the total votes. This information was gathered in much the same way as the county information was gathered, with the county variables switched for ones pertaining to the candidates. Since the data included candidate names and county names on each line of data, or ballot, the only other thing that had to be changed was the reference index, from the row containing the county names to the row containing the candidate’s names. (Photo) 
