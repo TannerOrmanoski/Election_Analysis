@@ -16,7 +16,9 @@ The purpose of this election audit analysis was to help Tom, a Colorado Board of
 
 ![](https://github.com/TannerOrmanoski/Election_Analysis/blob/main/Largest_county_turnout_image.png)
 
-• The three candidates were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Charles accumulated 23% of the vote, with 85,213 votes. Raymon only had 3.1% of the vote, with 11,606 votes. Diana wiped the board with a whopping 272,892 votes, or 73.8% of the total votes. This information was gathered in much the same way as the county information was gathered, with the county variables switched for ones pertaining to the candidates. Since the data included candidate names and county names on each line of data, or ballot, the only other thing that had to be changed was the reference index, from the row containing the county names to the row containing the candidate’s names. (Photo) 
+• The three candidates were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Charles accumulated 23% of the vote, with 85,213 votes. Raymon only had 3.1% of the vote, with 11,606 votes. Diana wiped the board with a whopping 272,892 votes, or 73.8% of the total votes. This information was gathered in much the same way as the county information was gathered, with the county variables switched for ones pertaining to the candidates. Since the data included candidate names and county names on each line of data, or ballot, the only other thing that had to be changed was the reference index, from the row containing the county names to the row containing the candidate’s names.
+
+![](https://github.com/TannerOrmanoski/Election_Analysis/blob/main/candidate_name.png)
 
 • Diana was the overwhelming winner with 272,892 votes which equaled 73.8% of the total votes. This was determined in the same manner as the largest voter turnout was, like before, the only thing that really needed to be changed was the variables and the references. (Photo)
 
